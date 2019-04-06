@@ -94,7 +94,7 @@ public class ReverseWholeWordsofString {
     //    System.out.println("char of start :" + str.charAt(start++));	    
 	    
 	    System.out.println(result);  */
-	*/    
+	    
 	} 
 	} 
 	  
