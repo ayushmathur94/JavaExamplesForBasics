@@ -47,9 +47,10 @@ public class ReverseWholeWordsofString {
 	    String str = "I AM A GEEK"; 
 	      ////////////012345678910
 	    //lenght wise 1234567891011
-	//    System.out.print(wordReverse(str));
+		
+         System.out.print(wordReverse(str));
 	    
-	   int i = 10;
+	/*   int i = 10;
 	    int start , end = i + 1 ;
 	    	String result = "";	
 	    	
@@ -93,7 +94,7 @@ public class ReverseWholeWordsofString {
     //    System.out.println("char of start :" + str.charAt(start++));	    
 	    
 	    System.out.println(result);  */
-	    
+	*/    
 	} 
 	} 
 	  
