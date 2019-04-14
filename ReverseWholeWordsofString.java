@@ -1,5 +1,10 @@
 package interviewPerspectiveQues;
 
+/*
+Given an input string, reverse the string word by word. A word is defined as a sequence of non-space characters.
+The input string does not contain leading or trailing spaces and the words are always separated by a single space.
+*/
+
 public class ReverseWholeWordsofString {
 
 	/*static String wordReverse(String fullString){
